@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+}
+.box-big{
+    
+    position: absolute;
+    top: 10%;
+    right:39%;
+    background-color: red;
+    height: 320px;
+    width: 320px;
+    
+ 
+}
+
+.medium{
+    position: absolute;
+    top: 80px;
+    right: 80px;
+    
+    background-color: rgb(136, 54, 213);
+    height: 160px;
+    width: 160px; 
+
+}
+
+.little{
+    position: absolute;
+    background-color: yellow;
+    height: 80px;
+    width: 80px; 
+
+}
+
+.box-big2{
+    position: absolute;
+    top: 55%;
+    right:39%;
+    background-color: blue;
+    height: 320px;
+    width: 320px;
+    
+ 
+}
+
+.medium2{
+    position: absolute;
+    top: 80px;
+    right: 80px;
+    
+    background-color: green;
+    height: 160px;
+    width: 160px; 
+
+}
+
+.little2{
+    position: absolute;
+    background-color:black;
+    height: 80px;
+    width: 80px; 
+
+}
